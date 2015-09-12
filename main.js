@@ -13,9 +13,7 @@ $(document).ready(function() {
                 (function() {
                     (function() {
                         (function() {
-                            (function() {
-                                
-                            }());
+
                         }());
                     }());
                 }());
