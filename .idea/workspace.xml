@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ba9fbac-d5d1-4009-8a59-009c2e3e1c6e" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\haker\Desktop\New-repo\8. CSharp-Advanced-Topics-Homework.docx" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\haker\Desktop\New-repo\ASd.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asd1.js" afterPath="$PROJECT_DIR$/asd1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="New-repo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="asd1.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="asd1.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/asd1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.07359307">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asdf2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="asdf2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/asdf2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2293853">
+            <state vertical-scroll-proportion="-5.8846154">
               <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
@@ -62,8 +62,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ASd.js" />
-        <option value="$PROJECT_DIR$/asd1.js" />
         <option value="$PROJECT_DIR$/asdf2.html" />
+        <option value="$PROJECT_DIR$/asd1.js" />
       </list>
     </option>
   </component>
@@ -165,7 +165,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="37" width="1400" height="830" extended-state="1" />
+    <frame x="66" y="37" width="1400" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -196,18 +196,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/asd1.js">
+    <entry file="file://$PROJECT_DIR$/asdf2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/asdf2.html">
+    <entry file="file://$PROJECT_DIR$/asd1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2293853">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.07359307">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
           <folding />
         </state>
       </provider>
