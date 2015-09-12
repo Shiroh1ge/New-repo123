@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2ba9fbac-d5d1-4009-8a59-009c2e3e1c6e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asd1.js" afterPath="$PROJECT_DIR$/asd1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="New-repo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="asd1.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/asd1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.073993474">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.055495102">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -221,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/asd1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.073993474">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.055495102">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
         </state>
       </provider>
